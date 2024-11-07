@@ -1,6 +1,16 @@
-# skeleton-starter
+# practice-app-jj
 
 ### To start
+
+Git clone the repository
+```
+cd ./practice-app-jj
+```
+
+Install dependencies
+```
+npm install
+```
 
 To build the frontend, run:
 ```
@@ -16,6 +26,8 @@ To see your webpage go to:
 ```
 localhost:3000
 ```
+
+The files should get rebuilt/server should get restarted after making changes so you shouldn't have to restart anything while developing. 
 
 
 #### To make changes:
